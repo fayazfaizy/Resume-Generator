@@ -353,97 +353,110 @@ function insertAfter(referenceNode,newNode) {
 
 function changeColor1() 
 {
-	var clr = "#bf80ff";
+	var clr = "background-color : #bf80ff !important";
 	
-    document.getElementById("title1").style.backgroundColor = clr;
-	document.getElementById("title2").style.backgroundColor = clr;
-	document.getElementById("title3").style.backgroundColor = clr;
-	document.getElementById("title4").style.backgroundColor = clr;
-	document.getElementById("title5").style.backgroundColor = clr;
-	document.getElementById("title6").style.backgroundColor = clr;
-	document.getElementById("title7").style.backgroundColor = clr;
-	document.getElementById("title8").style.backgroundColor = clr;
-	document.getElementById("title9").style.backgroundColor = clr;
-	document.getElementById("title10").style.backgroundColor = clr;
-	document.getElementById("title11").style.backgroundColor = clr;
+    document.getElementById("title1").style.cssText = clr;
+	document.getElementById("title2").style.cssText = clr;
+	document.getElementById("title3").style.cssText = clr;
+	document.getElementById("title4").style.cssText = clr;
+	document.getElementById("title5").style.cssText = clr;
+	document.getElementById("title6").style.cssText = clr;
+	document.getElementById("title7").style.cssText = clr;
+	document.getElementById("title8").style.cssText = clr;
+	document.getElementById("title9").style.cssText = clr;
+	document.getElementById("title10").style.cssText = clr;
+	document.getElementById("title11").style.cssText = clr;
+	
+	
 	
 }
 
 function changeColor2() 
 {
-	var clr = "#ff944d";
-    document.getElementById("title1").style.backgroundColor = clr;
-	document.getElementById("title2").style.backgroundColor = clr;
-	document.getElementById("title3").style.backgroundColor = clr;
-	document.getElementById("title4").style.backgroundColor = clr;
-	document.getElementById("title5").style.backgroundColor = clr;
-	document.getElementById("title6").style.backgroundColor = clr;
-	document.getElementById("title7").style.backgroundColor = clr;
-	document.getElementById("title8").style.backgroundColor = clr;
-	document.getElementById("title9").style.backgroundColor = clr;
-	document.getElementById("title10").style.backgroundColor = clr;
-	document.getElementById("title11").style.backgroundColor = clr;
+    var clr = "background-color : #ff944d !important";
+	
+    document.getElementById("title1").style.cssText = clr;
+	document.getElementById("title2").style.cssText = clr;
+	document.getElementById("title3").style.cssText = clr;
+	document.getElementById("title4").style.cssText = clr;
+	document.getElementById("title5").style.cssText = clr;
+	document.getElementById("title6").style.cssText = clr;
+	document.getElementById("title7").style.cssText = clr;
+	document.getElementById("title8").style.cssText = clr;
+	document.getElementById("title9").style.cssText = clr;
+	document.getElementById("title10").style.cssText = clr;
+	document.getElementById("title11").style.cssText = clr;
+	
 }
 
 function changeColor3() {
-	var clr = "#66d9ff";
-    document.getElementById("title1").style.backgroundColor = clr;
-    document.getElementById("title2").style.backgroundColor = clr;
-    document.getElementById("title3").style.backgroundColor = clr;
-    document.getElementById("title4").style.backgroundColor = clr;
-    document.getElementById("title5").style.backgroundColor = clr;
-    document.getElementById("title6").style.backgroundColor = clr;
-    document.getElementById("title7").style.backgroundColor = clr;
-    document.getElementById("title8").style.backgroundColor = clr;
-    document.getElementById("title9").style.backgroundColor = clr;
-    document.getElementById("title10").style.backgroundColor = clr;
-    document.getElementById("title11").style.backgroundColor = clr;
+    var clr = "background-color : #66d9ff !important";
+	
+    document.getElementById("title1").style.cssText = clr;
+	document.getElementById("title2").style.cssText = clr;
+	document.getElementById("title3").style.cssText = clr;
+	document.getElementById("title4").style.cssText = clr;
+	document.getElementById("title5").style.cssText = clr;
+	document.getElementById("title6").style.cssText = clr;
+	document.getElementById("title7").style.cssText = clr;
+	document.getElementById("title8").style.cssText = clr;
+	document.getElementById("title9").style.cssText = clr;
+	document.getElementById("title10").style.cssText = clr;
+	document.getElementById("title11").style.cssText = clr;
 
 }
 
 function changeColor4() {
-	var clr = "LightGray";
-    document.getElementById("title1").style.backgroundColor = clr;
-    document.getElementById("title2").style.backgroundColor = clr;
-    document.getElementById("title3").style.backgroundColor = clr;
-    document.getElementById("title4").style.backgroundColor = clr;
-    document.getElementById("title5").style.backgroundColor = clr;
-    document.getElementById("title6").style.backgroundColor = clr;
-    document.getElementById("title7").style.backgroundColor = clr;
-    document.getElementById("title8").style.backgroundColor = clr;
-    document.getElementById("title9").style.backgroundColor = clr;
-    document.getElementById("title10").style.backgroundColor = clr;
-    document.getElementById("title11").style.backgroundColor = clr;
+    var clr = "background-color : LightGray !important";
+	
+    document.getElementById("title1").style.cssText = clr;
+	document.getElementById("title2").style.cssText = clr;
+	document.getElementById("title3").style.cssText = clr;
+	document.getElementById("title4").style.cssText = clr;
+	document.getElementById("title5").style.cssText = clr;
+	document.getElementById("title6").style.cssText = clr;
+	document.getElementById("title7").style.cssText = clr;
+	document.getElementById("title8").style.cssText = clr;
+	document.getElementById("title9").style.cssText = clr;
+	document.getElementById("title10").style.cssText = clr;
+	document.getElementById("title11").style.cssText = clr;
     
 }
 
 function changeColor5() {
-	var clr = "ff99ff";
-    document.getElementById("title1").style.backgroundColor = clr;
-    document.getElementById("title2").style.backgroundColor = clr;
-    document.getElementById("title3").style.backgroundColor = clr;
-    document.getElementById("title4").style.backgroundColor = clr;
-    document.getElementById("title5").style.backgroundColor = clr;
-    document.getElementById("title6").style.backgroundColor = clr;
-    document.getElementById("title7").style.backgroundColor = clr;
-    document.getElementById("title8").style.backgroundColor = clr;
-    document.getElementById("title9").style.backgroundColor = clr;
-    document.getElementById("title10").style.backgroundColor = clr;
-    document.getElementById("title11").style.backgroundColor = clr;
+	var clr = "background-color : #ff99ff !important";
+	
+    document.getElementById("title1").style.cssText = clr;
+	document.getElementById("title2").style.cssText = clr;
+	document.getElementById("title3").style.cssText = clr;
+	document.getElementById("title4").style.cssText = clr;
+	document.getElementById("title5").style.cssText = clr;
+	document.getElementById("title6").style.cssText = clr;
+	document.getElementById("title7").style.cssText = clr;
+	document.getElementById("title8").style.cssText = clr;
+	document.getElementById("title9").style.cssText = clr;
+	document.getElementById("title10").style.cssText = clr;
+	document.getElementById("title11").style.cssText = clr;
 }
 
 function changeColor6() {
-	var clr = "#70db70";
-    document.getElementById("title1").style.backgroundColor = clr;
-	document.getElementById("title2").style.backgroundColor = clr;
-	document.getElementById("title3").style.backgroundColor = clr;
-	document.getElementById("title4").style.backgroundColor = clr;
-	document.getElementById("title5").style.backgroundColor = clr;
-	document.getElementById("title6").style.backgroundColor = clr;
-	document.getElementById("title7").style.backgroundColor = clr;
-	document.getElementById("title8").style.backgroundColor = clr;
-	document.getElementById("title9").style.backgroundColor = clr;
-	document.getElementById("title10").style.backgroundColor = clr;
-	document.getElementById("title11").style.backgroundColor = clr;
+    var clr = "background-color : #70db70 !important";
 	
+    document.getElementById("title1").style.cssText = clr;
+	document.getElementById("title2").style.cssText = clr;
+	document.getElementById("title3").style.cssText = clr;
+	document.getElementById("title4").style.cssText = clr;
+	document.getElementById("title5").style.cssText = clr;
+	document.getElementById("title6").style.cssText = clr;
+	document.getElementById("title7").style.cssText = clr;
+	document.getElementById("title8").style.cssText = clr;
+	document.getElementById("title9").style.cssText = clr;
+	document.getElementById("title10").style.cssText = clr;
+	document.getElementById("title11").style.cssText = clr;
+	
+}
+
+function printAsPdf()
+{
+	window.print();
 }
